@@ -6,17 +6,18 @@
 
 ## _Directions_
 
-DRIVER - 
+DAY 1 - 
 1. Create a NEW repository on GITHUB called - github-tutorial
 2. Copy the SSH Link
 3. Clone it to your IDE (it will say it is EMPTY that is OK)
 4. Navigate into it and create a `README.md` file. This is where you will work.
-5. As you edit, make a commit every once in a while.  Don't forget to push
+5. Open up your NOTES, Slide Decks, the SEP10 Site
+6. As you edit, make a commit every once in a while.  Don't forget to push!!
 
-NAVIGATOR - 
-1. Open up your NOTES, Slide Decks, the SEP10 Site
-2. Begin with a description of the difference between GIT and GITHUB
-3. 
+DAY 2 - 
+1. Swap tutorials with your assigned partner.
+2. Review their work. What are they missing? Make notes of it. Suggest revisions.
+3. Submit a pull request.
 
 ## _Topics_
 
@@ -25,18 +26,17 @@ NAVIGATOR -
   * [10%]
 * one-time setup
   * making a github account (you don't need to go in much depth)
-  * how to set up their IDE
-    * you can simply link to the directions that **you followed** to setup YOUR ide!
-    * SSH key (especially why we need it / what it does)
+  * include a sentence about IDE with a link to the site that has that info (Go to Classroom, Set-up IDE, Slide 5)
   * [15%]
 * repo setup
   * `init`, your first `add` & `commit`, new repo on github, remote
   * [30%]
 * ongoing workflow & commands
-  * status, add, commit, push
+  * Explain the order - save, add, commit, push
+  * What is happening at each step.
   * [30%]
 * markdown
-  *incorporate headers, bold, underline and code snippets - remember, backticks. [15%]
+  *incorporate headers, bold, underline and code snippets (remember, backticks). [15%]
 
 _NOTE: for each command, you should explain:_
 
