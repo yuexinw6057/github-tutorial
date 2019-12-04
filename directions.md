@@ -2,15 +2,21 @@
 
 ## _Overview_  
 
-* Using markdown syntax, display all of your knowledge about **Git** and **Github** in a single README file.  
+* _Using markdown syntax_, display all of your knowledge about **Git** and **Github** in a single README file.  
 
 ## _Directions_
 
-1. Fork and clone this repository.
-2. Notice there are two files:  
-    a. `README.md` is where you will find a template to use as a starting point for your tutorial. This is where you'll do your work.  
-    b. `directions.md` is where you will find these directions.
-3. As you edit, make a commit every once in a while.  Don't forget to push!  
+DRIVER - 
+1. Create a NEW repository on GITHUB called - github-tutorial
+2. Copy the SSH Link
+3. Clone it to your IDE (it will say it is EMPTY that is OK)
+4. Navigate into it and create a `README.md` file. This is where you will work.
+5. As you edit, make a commit every once in a while.  Don't forget to push
+
+NAVIGATOR - 
+1. Open up your NOTES, Slide Decks, the SEP10 Site
+2. Begin with a description of the difference between GIT and GITHUB
+3. 
 
 ## _Topics_
 
@@ -25,13 +31,12 @@
   * [15%]
 * repo setup
   * `init`, your first `add` & `commit`, new repo on github, remote
-  * [20%]
+  * [30%]
 * ongoing workflow & commands
   * status, add, commit, push
-  * [20%]
-* rolling back changes
-  * undo edit/add/commit/push
-  * [20%]
+  * [30%]
+* markdown
+  *incorporate headers, bold, underline and code snippets - remember, backticks. [15%]
 
 _NOTE: for each command, you should explain:_
 
