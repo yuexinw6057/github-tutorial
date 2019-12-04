@@ -1,6 +1,6 @@
 # GitHub Tutorial
 
-_by <Kayla Weng>_
+<b> <i> By </b> </i> <i>Kayla Weng </i>
 
 ---
 ## Git vs. GitHub
@@ -10,7 +10,7 @@ If not, you have came to the right spot. </p3> At first,
 
 ---
 ## Initial Setup
-
+Makes it a brand new repo meaning that nothing is in there
 
 
 ---
