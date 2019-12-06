@@ -84,4 +84,4 @@ Okay so basically, in order for you to actually put something onto a website, yo
     <li> <code> git status - to see if there is any files that is left unadded or committed.  </code> </li>
     <li> <code> c9 - to open file when you are in the file's directory </code> </li>
 </ul> </p4>
-<p style="color:peach;"> Honestly there is more, but for now that is all you need to know. The end! Have a good one! </p>
+<p style="color:gray;"> Honestly there is more, but for now that is all you need to know. The end! Have a good one! </p>
