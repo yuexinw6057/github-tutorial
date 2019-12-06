@@ -56,8 +56,32 @@ You will now be doing the folling steps to set up your repo:
 <ul>
     <li> after going into the directory you just created, you will use: git remote add origin git@github.com:"your username" </li>
     <li> then, git push -u origin master </ul>
-    <li> which then soon you can start editing the file and making it appear on the website! To do that, continue on reading! </li>
-</ul> </p>
+    <li> which then soon you can start editing the file and making it appear on the website! </li>
+</ul>
+    To do that, continue on reading!</p>
 
 ---
 ## Workflow & Commands
+<p4> If you have set everything up correctly, you should be at a very good place right now. So literally all your commands will execute.
+If you your command isn't working properly, there is either something wrong with:
+<ul>
+    <li> The spelling </li>
+    <li> Your ssh key (first ever ide set up) </li>
+    <li> The directory you are in </li>
+<ul>
+</p4>
+<p4> Back to what I was saying, now you have it set up with no problems (hopefully), you will now learn the commands from the expert! Aka me! (JK) <br />
+Okay so basically, in order for you to actually put something onto a website, you must do the following commands (usually):
+<ul>
+    <li> <code> pwd - Check the working directories that you are at, the last one (read left to right) is the directory you are at </code> </li>
+    <li> <code> cd .. or cd ../.. - change directory to the directory you want. Each two dot represents a level in the directory. To go to one,
+    simply do cd "name of directory" </code> </li>
+    <li> <code> Git init - initalizes git to branch master </code> </li>
+    <li> <code> git add - adds the file you are working on to a staging area </code> </li>
+    <li> <code> git commit -m "" - sounds like what it means, it means to commit it and basically put in something </code> </li>
+    <li> <code> git push - allows it to be on github peacefully. </code> </li>
+    <li> <code> git log - allows you to see what commits you have done </code> </li>
+    <li> <code> git status - to see if there is any files that is left unadded or committed.  </code> </li>
+    <li> <code> c9 - to open file when you are in the file's directory </code> </li>
+</ul> </p4>
+<p style="color:peach;"> Honestly there is more, but for now that is all you need to know. The end! Have a good one! </p>
