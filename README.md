@@ -45,7 +45,7 @@ It initializes git. </p>
 ---
 ## Repository Setup
 <p> hello, you are here still, I assume you are very interested in how to do it now. So let's begin.
-SO first, you will need to start up with the repository at <i> <a href= "github.com"> Github.com </a> </i> <br />
+SO first, you will need to start up with the repository at <i> <a href= "https://github.com/"> Github.com </a> </i> <br />
 Afterwards, you will need to click on the downward error in order to see a drop down menu, that way you will see something that says
 "repositories." After finding that, you click on it and it should say "new" in a green button, when you see that, you click on it.
 Afterwards, you will see your username and a box where it says "new repo name" (repo is shortened for repository), after you named it, you will
@@ -84,4 +84,4 @@ Okay so basically, in order for you to actually put something onto a website, yo
     <li> <code> git status - to see if there is any files that is left unadded or committed.  </code> </li>
     <li> <code> c9 - to open file when you are in the file's directory </code> </li>
 </ul> </p4>
-<p style="color:gray;"> Honestly there is more, but for now that is all you need to know. The end! Have a good one! </p>
+<p style="font-family:courier;">Honestly there is more, but for now that is all you need to know. The end! Have a good one. </p>
